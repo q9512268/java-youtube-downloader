@@ -7,7 +7,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 
-import static com.github.kiulian.downloader.TestUtils.*;
+import static com.github.kiulian.downloader.TestUtilsYTDL.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 @DisplayName("Tests extracting metadata for youtube live streams")

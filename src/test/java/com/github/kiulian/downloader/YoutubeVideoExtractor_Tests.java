@@ -12,8 +12,8 @@ import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
-import static com.github.kiulian.downloader.TestUtils.*;
-import static com.github.kiulian.downloader.TestUtils.ME_AT_THE_ZOO_ID;
+import static com.github.kiulian.downloader.TestUtilsYTDL.*;
+import static com.github.kiulian.downloader.TestUtilsYTDL.ME_AT_THE_ZOO_ID;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

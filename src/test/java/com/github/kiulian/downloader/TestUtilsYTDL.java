@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-class TestUtils {
+class TestUtilsYTDL {
     static final String ME_AT_THE_ZOO_ID = "jNQXAC9IVRw"; // me at the zoo
     static final String DESPACITO_ID = "kJQP7kiw5Fk"; // despacito
 

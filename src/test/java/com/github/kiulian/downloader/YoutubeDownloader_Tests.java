@@ -10,8 +10,8 @@ import java.io.File;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
-import static com.github.kiulian.downloader.TestUtils.ME_AT_THE_ZOO_ID;
-import static com.github.kiulian.downloader.TestUtils.isReachable;
+import static com.github.kiulian.downloader.TestUtilsYTDL.ME_AT_THE_ZOO_ID;
+import static com.github.kiulian.downloader.TestUtilsYTDL.isReachable;
 import static org.junit.jupiter.api.Assertions.*;
 
 @DisplayName("Tests downloading youtube videos")
